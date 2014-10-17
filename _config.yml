@@ -11,14 +11,14 @@ desc: Some description of your site.
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        python: Python学习
+        git: Git学习
     categories:
-      - name:  default
-        title: Default Category
+      - name:  python
+        title: Python学习
 
-      - name:  another
-        title: Another Category
+      - name:  git
+        title: Git学习
 
     scrollingLoadCount: 2                           # 滚屏自动加载文章数量，“0”为关闭
 
