@@ -5,7 +5,7 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: Your Site Name
+name: 我还没有吃到奇奇怪怪味的小浣熊
 host: yourdomain.com
 desc: Some description of your site.
 
@@ -26,9 +26,9 @@ meta:
     author:
         name: ilovelll
         email: gradle@qq.com
-        disqus: your-disqus-short-name              # Disqus缩略标识
+        disqus: ilovelll            # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
-        github: your-github-account                 # GitHub账号
+        github: gradle@qq.com                # GitHub账号
         gravatar: 57a743021e2fdbae6b0e05bbddb2398c  # Gravatar头像标识
 
     disqus: disqus.com/embed.js                     # Disqus评论的JS地址
