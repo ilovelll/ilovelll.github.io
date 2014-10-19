@@ -1,12 +1,12 @@
 markdown: kramdown
-pygments: true
+pygments: false
 safe: false
 permalink: /posts/:title.html
 exclude:
   - README.md
 
 name: 我还没有吃到奇奇怪怪味的小浣熊
-host: yourdomain.com
+host: ilovelll.github.io
 desc: Some description of your site.
 
 custom:
