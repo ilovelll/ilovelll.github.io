@@ -1,5 +1,5 @@
 markdown: kramdown
-pygments: false
+pygments: true
 safe: false
 permalink: /posts/:title.html
 exclude:
@@ -7,12 +7,13 @@ exclude:
 
 name: 我还没有吃到奇奇怪怪味的小浣熊
 host: ilovelll.github.io
-desc: Some description of your site.
+desc: 你好，我是李红恩，欢迎来到我的博客。
 
 custom:
     category:
         python: Python学习
         git: Git学习
+        daily: 字里行间
     categories:
       - name:  python
         title: Python学习
@@ -20,6 +21,8 @@ custom:
       - name:  git
         title: Git学习
 
+      - name:  daily
+        title: 字里行间
     scrollingLoadCount: 2                           # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
